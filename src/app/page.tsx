@@ -228,7 +228,7 @@ export default function ContactForm() {
               </h1>
               <p className="text-sm">
                 Please send us your questions, comments, or feedback using the form
-                below. We're here to help!
+                below. We&apos;re here to help!
               </p>
             </div>
             <div className="space-y-5 *:rounded-sm">
